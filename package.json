@@ -1,11 +1,19 @@
 {
   "name": "grunt-wp-setup",
-  "version": "1.0.0",
-  "description": "Setup for new Wordpress project - Beta Version",
+  "version": "1.0.1",
+  "description": "Setup for new Wordpress project - Dev version",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rafal Bernaczek <rafal@bernaczek.pl>",
-  "license": "ISC"
+  "homepage": "https://github.com/VRafal/grunt-wp-setup",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VRafal/grunt-wp-setup.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
 }
