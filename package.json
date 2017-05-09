@@ -1,0 +1,11 @@
+{
+  "name": "grunt-wp-setup",
+  "version": "1.0.0",
+  "description": "Setup for new Wordpress project - Beta Version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafal Bernaczek <rafal@bernaczek.pl>",
+  "license": "ISC"
+}
